@@ -35,3 +35,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+bin/
+OpenCV/
+opencv-3.4.2/
+*.out
