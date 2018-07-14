@@ -1,0 +1,10 @@
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/CMakeFiles/edit_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/CMakeFiles/rebuild_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/cpp/CMakeFiles/edit_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/cpp/CMakeFiles/rebuild_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/dnn/CMakeFiles/edit_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/dnn/CMakeFiles/rebuild_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/opencl/CMakeFiles/edit_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/opencl/CMakeFiles/rebuild_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/tapi/CMakeFiles/edit_cache.dir
+/home/dip-24/Desktop/IT/opencv-3.4.2/samples/tapi/CMakeFiles/rebuild_cache.dir
